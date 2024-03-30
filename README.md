@@ -3,6 +3,7 @@
 <h3>To Do App (using Vue JS)</h3>
 <a href="https://vik-kalsi.github.io/vue-ToDoApp/">Click here to access the To Do App</a>
 
+<br>
 
 This template should help get you started developing with Vue 3 in Vite.
 
